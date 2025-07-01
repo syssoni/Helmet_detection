@@ -31,21 +31,24 @@ Main libraries used:
 
 ### Usage for running the file
 ---
-1. Clone the repository<br/>
+1. **Clone the repository**<br/>
   https://github.com/syssoni/Helmet_detection.git<br/>
-2. Run the jupyter notebook<br/> 
-   Yolov11<br/>
+2. **Run the jupyter notebook**<br/> 
+   **For Yolov11**<br/>
    jupyter notebook Helmet_detection_yolov11-github.ipynb<br/>
-   Yolov12<br/>
+   **For Yolov12**<br/>
    jupyter notebook Helmet_detection_yolov12-github.ipynb<br/>
    
 ### Results
-For yolov11:<br/>
-![Confusion Matrix Normalised v11](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/confusion_matrix_normalized.png)
-![PR curve v11](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/PR_curve.png)<br/>
-For yolov12:<br/>
-![Confusion Matrix Normalised v12](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/confusion_matrix_normalized_v12.png)
-![PR curve v12](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/PR_curve_v12.png)
+---
+**Yolov11**<br/>
+<img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/confusion_matrix_normalized.png" alt="Confusion Matrix Normalised v11" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/PR_curve.png" alt="PR curve v11" width="70%"><br/><br/>
+
+**Yolov12**<br/>
+<img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/confusion_matrix_normalized_v12.png" alt="Confusion Matrix Normalised v12" width="70%">
+<img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/PR_curve_v12.png" alt="PR curve v12" width="70%"><br/>
+
 
 
 
