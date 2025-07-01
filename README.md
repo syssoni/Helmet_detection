@@ -31,15 +31,21 @@ Main libraries used:
 
 ### Usage for running the file
 ---
-1. Clone the repository
-
-2. Run the jupyter notebook
+1. Clone the repository<br/>
+  https://github.com/syssoni/Helmet_detection.git<br/>
+2. Run the jupyter notebook<br/> 
+   Yolov11<br/>
+   jupyter notebook Helmet_detection_yolov11-github.ipynb<br/>
+   Yolov12<br/>
+   jupyter notebook Helmet_detection_yolov12-github.ipynb<br/>
    
 ### Results
-For yolov11:
-![Image alt text](image.jpg)  
-For yolov12:
-![Image alt text](image.jpg)  
+For yolov11:<br/>
+![Confusion Matrix Normalised v11](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/confusion_matrix_normalized.png)
+![PR curve v11](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/PR_curve.png)<br/>
+For yolov12:<br/>
+![Confusion Matrix Normalised v12](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/confusion_matrix_normalized_v12.png)
+![PR curve v12](https://raw.githubusercontent.com/syssoni/Helmet_detection/tree/main/Results/PR_curve_v12.png)
 
 
 
