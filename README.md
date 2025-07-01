@@ -1,10 +1,10 @@
-# Helmet_detection
-### About The Project
+# Helmet Detection
+### About the project
 ---
 This project implements a helmet detection system using the YOLO (You Only Look Once) object detection models, primarily YOLOv11 and YOLOv12. It is designed to identify whether a person is wearing a helmet in real-time video streams or images. This kind of system is especially useful for monitoring safety compliance on construction sites, industrial zones, or roadways.
 **YOLO model, Object Detection,   
 
-### About Data Collection and Preprocessing
+### About data collection and preprocessing
 ---
 Dataset Information:<br/>
 - The dataset includes **1756 images**
@@ -30,9 +30,16 @@ Main libraries used:
 * 
 
 ### Usage for running the file
+---
 1. Clone the repository
-   
+
 2. Run the jupyter notebook
    
+### Results
+For yolov11:
+![Image alt text](image.jpg)  
+For yolov12:
+![Image alt text](image.jpg)  
+
 
 
