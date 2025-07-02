@@ -49,6 +49,6 @@ Main libraries used:
 <img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/confusion_matrix_normalized_v12.png" alt="Confusion Matrix Normalised v12" width="70%">
 <img src="https://raw.githubusercontent.com/syssoni/Helmet_detection/main/Results/PR_curve_v12.png" alt="PR curve v12" width="70%"><br/>
 
-
+**Project Open for suggestions and changes and use**
 
 
