@@ -36,9 +36,7 @@ Dataset Information:<br/>
 - pandas = 2.2.3 <br/>
 
 **Steps for running the project**
-1. **Clone the repository**<br/>
-  https://github.com/syssoni/Helmet_detection.git<br/>
-2. **Run the jupyter notebook**<br/> 
+1. **Run the jupyter notebook**<br/> 
    **For Yolov11**<br/>
    jupyter notebook Helmet_detection_yolov11-github.ipynb<br/>
    **For Yolov12**<br/>
