@@ -3,7 +3,7 @@
 ## About the project<br/>
 This project implements a helmet detection system using the YOLO (You Only Look Once) object detection models, primarily YOLOv11 and YOLOv12. It is designed to identify whether a person is wearing a helmet in real-time video streams or images. This kind of system is especially useful for monitoring safety compliance on construction sites, industrial zones, or roadways.
 
-**YOLO model, Object Detection, Pytorch, Two-wheeler, Data annotation, Ultralytics**<br/>
+**YOLO model, Object Detection, Pytorch, Two-wheeler, Data annotation, Ultralytics, Machine learning**<br/>
 
 **Data collection and preprocessing**<br/>
 Dataset Information:<br/>
